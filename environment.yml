@@ -85,4 +85,3 @@ dependencies:
     - vrpy==0.5.1
     - spatialpandas==0.4.6
     - pyidw==0.2.20
-
