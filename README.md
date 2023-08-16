@@ -6,6 +6,14 @@ This is the code repository for [Applied Geospatial Data Science with Python](ht
 
 **Leverage geospatial data analysis and modeling to find unique solutions to environmental problems**
 
+- [What is this book about?](#what-is-this-book-about?)
+- [Instructions and Navigations](#instructions-and-navigations)
+    - [Software and Hardware List](#software-and-lardware-list)
+    - [Related products](#related-products)
+- [Get to Know the Author](#get-to-know-the-author)
+- [Download a free PDF](#download-a-free-pdf)
+- [Additional information](#additional-information)
+
 ## What is this book about?
 Data scientists, when presented with a myriad of data, can often lose sight of how to present geospatial analyses in a meaningful way so that it makes sense to everyone. Using Python to visualize data helps stakeholders in less technical roles to understand the problem and seek solutions. The goal of this book is to help data scientists and GIS professionals learn and implement geospatial data science workflows using Python.
 
@@ -126,3 +134,7 @@ speaker on topics including banking deserts and how great businesses leverage GI
 
  <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
 <p align="center"> <a href="https://packt.link/free-ebook/9781803238128">https://packt.link/free-ebook/9781803238128 </a> </p>
+
+## Additional information
+
+* [NYC Attractions dataset](https://github.com/PacktPublishing/Applied-Geospatial-Data-Science-with-Python/releases/tag/AdtlBookData) for maps in **Chapter 02**
