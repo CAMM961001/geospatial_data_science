@@ -6,7 +6,7 @@ This is the code repository for [Applied Geospatial Data Science with Python](ht
 
 **Leverage geospatial data analysis and modeling to find unique solutions to environmental problems**
 
-- [What is this book about?](#what-is-this-book-about?)
+- [What is this book about?](#what-is-this-book-about)
 - [Instructions and Navigations](#instructions-and-navigations)
     - [Software and Hardware List](#software-and-hardware-list)
     - [Related products](#related-products)
