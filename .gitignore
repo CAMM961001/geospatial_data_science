@@ -161,3 +161,6 @@ cython_debug/
 
 # Ignore data files
 data/*
+
+# Ignore API credentials files
+credentials.*
