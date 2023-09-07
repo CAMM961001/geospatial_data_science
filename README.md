@@ -139,3 +139,4 @@ speaker on topics including banking deserts and how great businesses leverage GI
 
 * [NYC Attractions dataset](https://github.com/PacktPublishing/Applied-Geospatial-Data-Science-with-Python/releases/tag/AdtlBookData) for maps in **Chapter 02**
 * [Introduction to Spatial Data Science by the University of Chicago](https://www.youtube.com/playlist?list=PLzREt6r1NenmFyTw8v2JZpEE4PZGNi5Ht)
+* [Geographic Data Science with Python](https://geographicdata.science/book/intro.html#)
